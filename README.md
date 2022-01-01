@@ -1,5 +1,3 @@
-# My blog
-> This is some test
+# My Jupyter Notebok Blog
 
-
-A new blog, powered by Jupyter Notebooks and [nbdev](https://nbdev.fast.ai/).
+Experimental blog generated from Jupyter Notebooks.

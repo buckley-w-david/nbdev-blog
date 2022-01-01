@@ -1,0 +1,12 @@
+plugins:
+    - jekyll-remote-theme
+    
+remote_theme: fastai/nbdev-jekyll-theme
+  
+exclude:
+  - build.sh
+  - LICENSE
+  - notebooks
+  - settings.ini
+  - _site
+  - vendor
